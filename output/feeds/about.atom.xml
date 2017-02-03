@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>AIRE Dance Company - About</title><link href="https://airedancecompany.ro/pelican/" rel="alternate"></link><link href="https://airedancecompany.ro/pelican/feeds/about.atom.xml" rel="self"></link><id>https://airedancecompany.ro/pelican/</id><updated>2015-02-01T10:20:00+02:00</updated><entry><title>About AIRE Dance Company</title><link href="https://airedancecompany.ro/pelican/about-aire-dance-company.html" rel="alternate"></link><published>2015-02-01T10:20:00+02:00</published><updated>2015-02-01T10:20:00+02:00</updated><author><name>AIRE Dance Company</name></author><id>tag:airedancecompany.ro,2015-02-01:/pelican/about-aire-dance-company.html</id><summary type="html">&lt;p&gt;AIRE was founded on the 8th of January 2012, uniting under the same flag ten enthusiastic people driven by the same passion.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>AIRE Dance Company - about</title><link href="https://airedancecompany.ro/pelican/" rel="alternate"></link><link href="https://airedancecompany.ro/pelican/feeds/about.atom.xml" rel="self"></link><id>https://airedancecompany.ro/pelican/</id><updated>2017-02-01T01:00:00+02:00</updated><entry><title>Contact us</title><link href="https://airedancecompany.ro/pelican/contact-us.html" rel="alternate"></link><published>2017-02-01T01:00:00+02:00</published><updated>2017-02-01T01:00:00+02:00</updated><author><name>AIRE Dance Company</name></author><id>tag:airedancecompany.ro,2017-02-01:/pelican/contact-us.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Adresa&lt;/strong&gt;: Milton Lehrer nr. 22, Cluj-Napoca&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Telefon&lt;/strong&gt;: 0742 350 640&lt;/p&gt;
+
+                &lt;iframe
+                  width="600"
+                  height="400"
+                  frameborder="0" style="border:0;display: block;margin: 0 auto;"
+                  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDKJRkX0kRwS5sHSC0hc4zzim9k0zHtSp0&amp;q=AIRE+Dance+Company&amp;maptype=roadmap"&gt;
+                &lt;/iframe&gt;
+                </summary><content type="html">&lt;p&gt;&lt;strong&gt;Adresa&lt;/strong&gt;: Milton Lehrer nr. 22, Cluj-Napoca&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Telefon&lt;/strong&gt;: 0742 350 640&lt;/p&gt;
+
+                &lt;iframe
+                  width="600"
+                  height="400"
+                  frameborder="0" style="border:0;display: block;margin: 0 auto;"
+                  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDKJRkX0kRwS5sHSC0hc4zzim9k0zHtSp0&amp;q=AIRE+Dance+Company&amp;maptype=roadmap"&gt;
+                &lt;/iframe&gt;
+                </content></entry><entry><title>About AIRE Dance Company</title><link href="https://airedancecompany.ro/pelican/about-aire-dance-company.html" rel="alternate"></link><published>2015-02-01T10:20:00+02:00</published><updated>2015-02-01T10:20:00+02:00</updated><author><name>AIRE Dance Company</name></author><id>tag:airedancecompany.ro,2015-02-01:/pelican/about-aire-dance-company.html</id><summary type="html">&lt;p&gt;AIRE was founded on the 8th of January 2012, uniting under the same flag ten enthusiastic people driven by the same passion.&lt;/p&gt;
 &lt;p&gt;Why AIRE Dance Company? Because the art of dance motivates us, music guides our rhythm, and emotions inspire us to bring it to you day after day.&lt;/p&gt;
 &lt;p&gt;We seek to share our passion for music and dance with the local and international dance communities through workshops, shows and deejaying.&lt;/p&gt;
 &lt;hr&gt;
