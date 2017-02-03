@@ -6,7 +6,7 @@ AUTHOR = 'AIRE Dance Company'
 SITENAME = 'AIRE Dance Company'
 SITEURL = 'http://localhost:8000'
 SITETITLE = AUTHOR
-SITESUBTITLE = 'Art Inspired by Rhythm and Emotion'
+SITESUBTITLE = 'Art Inspired by Rhythm of Emotions'
 
 PATH = 'content'
 
