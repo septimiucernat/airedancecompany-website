@@ -13,7 +13,7 @@ DEPLOY_PATH = env.deploy_path
 
 # Remote server configuration
 production = 'root@airedancecompany.ro:22'
-dest_path = '/home/airedc/pelican'
+dest_path = '/home/airedc/site'
 
 # Rackspace Cloud Files configuration settings
 env.cloudfiles_username = 'my_rackspace_username'

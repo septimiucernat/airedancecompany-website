@@ -15,7 +15,7 @@ FTP_TARGET_DIR=/
 SSH_HOST=airedancecompany.ro
 SSH_PORT=22
 SSH_USER=root
-SSH_TARGET_DIR=/home/airedc/pelican
+SSH_TARGET_DIR=/home/airedc/site
 
 S3_BUCKET=my_s3_bucket
 
