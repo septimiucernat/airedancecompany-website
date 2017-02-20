@@ -1,1 +1,3 @@
 pelicanconf.py
+output/
+__pycache__/

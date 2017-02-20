@@ -7,5 +7,7 @@ Contact us
 
 **Telefon**: 0742 350 640
 
+**Email**: aire@airedancecompany.ro
+
 .. gmaps:: AIRE Dance Company
     :mode: place
