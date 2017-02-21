@@ -1,7 +1,7 @@
-Contact us
+Contactează-ne
 #################
 :date: 2017-02-01 01:00
-:category: about
+:category: Despre
 
 **Adresa**: Milton Lehrer nr. 22, Cluj-Napoca
 
