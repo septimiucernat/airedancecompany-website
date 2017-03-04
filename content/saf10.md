@@ -1,6 +1,7 @@
 Title: 10th Salsa Addicted Festival
 Date: 2017-03-03 10:20
 Category: Blog
+Image: /images/saf10.jpg
 
 Weekendul acesta la [a 10-a ediție a Salsa Addicted Festival][1], AIRE Dance Company va preda două cursuri si Bogdan Bucevschi va face poze în timpul evenimentului.
 
