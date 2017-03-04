@@ -1,6 +1,7 @@
 Title: Despre AIRE Dance Company
 Date: 2015-02-01 10:20
 Category: Despre
+Tags: Salsa, Bachata, Merengue, Babies, Tots, Cluj
 
 AIRE s-a înființat în data de 8 ianuarie 2012 din pasiunea comună a zece oameni îndrăzneți, pasiune care ne-a îndemnat să ne unim forțele sub același nume.
 

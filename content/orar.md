@@ -1,6 +1,7 @@
 Title: Orar AIRE Dance Company din 16 ianuarie
 Date: 2017-02-01 11:20
 Category: Orar
+Tags: Salsa, Bachata, Merengue, Babies, Tots, Cluj
 
 
 Luni                          | Marti                  | Miercuri                      | Joi
