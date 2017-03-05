@@ -1,4 +1,4 @@
-Title: Fun times On2 at 10th Salsa Addicted Festival
+Title: Fun times on2 at 10th Salsa Addicted Festival
 Date: 2017-03-04 14:50
 Category: Blog
 Image: /images/saf10-salsa-ws.jpg
