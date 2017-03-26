@@ -37,7 +37,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('orar', 'https://airedancecompany.ro/category/orar.html'),
+LINKS = (('cursuri', 'https://airedancecompany.ro/category/cursuri.html'),
+         ('orar', 'https://airedancecompany.ro/category/orar.html'),
          ('blog', 'https://airedancecompany.ro/category/blog.html'),
          ('contact', 'https://airedancecompany.ro/contacteaza-ne.html'),
          ('despre', 'https://airedancecompany.ro/despre-aire-dance-company.html'))

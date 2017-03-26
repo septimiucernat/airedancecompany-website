@@ -1,6 +1,6 @@
-Title: Curs de salsa și bachata - martie 2017
+Title: Curs de Salsa și Bachata - Martie 2017
 Date: 2017-03-08 15:50
-Category: Blog
+Category: Cursuri
 Image: /images/curs_martie.jpg
 Tags: Salsa, Bachata, Cluj
 
