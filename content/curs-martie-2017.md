@@ -28,7 +28,7 @@ Intrebari frecvente:
 
 - Poți să plătesti cursul pană în 29 Martie
 
-- Desi evenimentul spune ca tine pana in 29 Martie, de fapt cursul de începători durează 8 săptămâni, dar Facebook-ul nu pernite un eveniment mai lung de doua saptamani :D
+- Desi evenimentul spune ca tine pana in 29 Martie, de fapt cursul de începători durează 8 săptămâni, dar Facebook-ul nu permite un eveniment mai lung de doua saptamani :D
 
 - Desi cursul dureaza doua luni, abonamentul este lunar
 
