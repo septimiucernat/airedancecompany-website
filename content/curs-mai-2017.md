@@ -18,25 +18,25 @@ Noi te ajutăm! Tot ce trebuie să faci este să urmezi acest plan:
 
 `ABONAMENT LUNAR:` 110 LEI (_reducere 10% elevi și studenți (99 LEI)_)
 
-Adu-ți prietenii! Veniți in grup de 4 persoane (minim 2 baieți) și beneficiați pentru prima lună de 10% reducere fiecare!
+Adu-ți prietenii! Veniți în grup de 4 persoane (minim 2 baieți) și beneficiați pentru prima lună de 10% reducere fiecare!
 
 ---
 
-Intrebari frecvente:
+Întrebări frecvente:
 
 - Da, poți să vii fără partener
 
-- Poți să plătesti cursul pană în 31 Mai
+- Poți să plătești cursul până în 31 Mai
 
-- Desi evenimentul spune ca tine pana in 31 Mai, de fapt cursul de începători durează 8 săptămâni, dar Facebook-ul nu permite un eveniment mai lung de doua saptamani :D
+- Deși evenimentul spune că ține până în 31 Mai, de fapt cursul de `Începători` durează 8 săptămâni, dar Facebook-ul nu permite un eveniment mai lung de 2 săptămâni :D
 
-- Desi cursul dureaza doua luni, abonamentul este lunar
+- Deși cursul durează două luni, abonamentul este lunar
 
 - După `Începători` urmează `Intermediari 1` și `Intermediari 2` a câte 16 săptămâni fiecare
 
 - Da, pentru următoarele 10 luni, în fiecare luni și miercuri îți facem program de distracție și voie bună!
 
-- Da, poți să vii și dacă ai două picioare stângi :D.
+- Da, poți să vii și dacă ai două picioare stângi :D
 
 
 [CONTACT][2]
