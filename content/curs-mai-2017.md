@@ -28,7 +28,7 @@ Adu-ți prietenii! Veniți în grup de 4 persoane (minim 2 baieți) și benefici
 
 - Poți să plătești cursul până în 31 Mai
 
-- Deși evenimentul spune că ține până în 31 Mai, de fapt cursul de `Începători` durează 8 săptămâni, dar Facebook-ul nu permite un eveniment mai lung de 2 săptămâni :D
+- Deși evenimentul spune că ține până în 31 Mai, de fapt cursul de `Începători` durează 8 săptămâni, dar [Facebook-ul][6] nu permite un eveniment mai lung de 2 săptămâni :D
 
 - Deși cursul durează două luni, abonamentul este lunar
 
@@ -46,3 +46,4 @@ Adu-ți prietenii! Veniți în grup de 4 persoane (minim 2 baieți) și benefici
 [3]: http://bit.ly/2d28beA
 [4]: http://bit.ly/2dZ2yK2
 [5]: http://bit.ly/2oyNEE3
+[6]: https://www.facebook.com/events/1437096489684910/
