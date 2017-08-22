@@ -4,7 +4,7 @@ Contactează-ne
 :category: Despre
 :tags: Salsa, Bachata, Merengue, Babies, Tots, Cluj
 
-**Adresa**: Milton Lehrer nr. 22, Cluj-Napoca
+**Adresa**: Milton Lehrer nr. 22, interfon 4, clădirea cu Banca Transilvania, Cluj-Napoca
 
 **Telefon**:
 
