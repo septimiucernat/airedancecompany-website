@@ -6,4 +6,4 @@ Tags: Salsa, Bachata, Merengue, Cluj
 Luni                         | Marti                          | Miercuri                     | Joi
 ---------------------------- | ------------------------------ | ---------------------------- | ------------------------------
 18:15 - 19:30 `Începători 2` | 18:30 - 19:45 `Inter-Advanced` | 18:15 - 19:30 `Începători 2` | 18:30 - 19:45 `Inter-Advanced`
-19:30 - 20:45 `Începători 1` |                                | 19:30 - 20:45 `Începători 1` |
+19:30 - 20:45 `Începători 1` | 19:45 - 21:00 `Intermediari 2` | 19:30 - 20:45 `Începători 1` | 19:45 - 21:00 `Intermediari 2`
