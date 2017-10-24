@@ -1,4 +1,4 @@
-Title: Curs de Salsa și Bachata - Octombrie 2 2017
+Title: Curs de Salsa și Bachata - 2 Octombrie 2017
 Date: 2017-09-20 11:50
 Category: Cursuri
 Image: /images/curs_octombrie.jpg
