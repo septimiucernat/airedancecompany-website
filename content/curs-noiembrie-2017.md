@@ -1,7 +1,7 @@
-Title: Curs de Salsa și Bachata - 31 Octombrie 2017
-Date: 2017-10-24 14:50
+Title: Curs de Salsa și Bachata - 14 Noiembrie 2017
+Date: 2017-10-31 23.:30
 Category: Cursuri
-Image: /images/curs_octombrie_31.jpg
+Image: /images/curs_noiembrie.jpg
 Tags: Salsa, Bachata, Cluj
 
 Vrei să înveți să dansezi salsa și nu știi de unde să o apuci?

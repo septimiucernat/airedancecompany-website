@@ -1,5 +1,5 @@
-Title: Orar AIRE Dance Company din 31 Octombrie
-Date: 2017-10-24 17:00
+Title: Orar AIRE Dance Company din 14 Noiembrie
+Date: 2017-10-31 23:30
 Category: Orar
 Tags: Salsa, Bachata, Merengue, Cluj
 
