@@ -1,4 +1,4 @@
-Title: Curs de Salsa și Bachata - 14 Noiembrie 2017
+Title: Curs de Salsa și Bachata - 28 Noiembrie 2017
 Date: 2017-10-31 23:30
 Category: Cursuri
 Image: /images/curs_noiembrie.jpg
@@ -32,7 +32,7 @@ Adu-ți prietenii! Veniți în grup de 4 persoane (minim 2 baieți) și benefici
 
 - După `Începători` urmează `Intermediari 1` și `Intermediari 2` a câte 16 săptămâni fiecare
 
-- Da, pentru următoarele 10 luni, în fiecare luni și miercuri îți facem program de distracție și voie bună!
+- Da, pentru următoarele 10 luni, în fiecare marți și joi îți facem program de distracție și voie bună!
 
 - Da, poți să vii și dacă ai două picioare stângi :D
 
@@ -45,5 +45,5 @@ Adu-ți prietenii! Veniți în grup de 4 persoane (minim 2 baieți) și benefici
 [2]: https://airedancecompany.ro/contacteaza-ne.html
 [3]: http://bit.ly/2d28beA
 [4]: http://bit.ly/2dZ2yK2
-[5]: http://bit.ly/2yHqwGQ
-[6]: https://www.facebook.com/events/889552174537382/
+[5]: http://bit.ly/2zXqI48
+[6]: https://www.facebook.com/events/1294033034041844/
